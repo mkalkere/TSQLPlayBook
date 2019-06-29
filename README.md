@@ -48,3 +48,11 @@ _Developers TSQL Play Book_
   - #### Filtering by Sets
   - #### Offsetting Results _If you are using offset you have to use order by_
    
+## 6.Aggregates and Analysis
+
+  - #### Basic Aggregates
+  - #### Grouping Results
+  - #### A Simple Sales Query
+  - #### Tangent: Checking Your Numbers
+  - #### Constraining Aggregate Results
+  
