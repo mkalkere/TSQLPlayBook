@@ -39,3 +39,12 @@ _Developers TSQL Play Book_
   - #### Subqueries
   - #### Left and Right Joins
   - #### Full Joins
+
+## 5.Filtering, Shifting, and Sorting Data
+
+  - #### Ordering Results
+  - #### Limiting Results
+  - #### Sequential Ordering
+  - #### Filtering by Sets
+  - #### Offsetting Results _If you are using offset you have to use order by_
+   
