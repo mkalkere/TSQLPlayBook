@@ -1,5 +1,5 @@
-# TSQLPlayBook
-Developers TSQL Play Book
+# TSQL Play Book
+_Developers TSQL Play Book_
 
 
 ## 1. Working with Tables
@@ -15,4 +15,20 @@ Developers TSQL Play Book
   - #### Column Defaults
   - #### Naming Conventions
   
-## 2.   
+## 2. Working with Data
+
+  - #### Inserting Data
+  - #### Bulk Inserts
+  - #### Updates
+  - #### Updates with Criteria
+  - #### Bulk Updates
+  - #### Delete
+  - #### Bulk Deletes
+  
+## 3. Querying Data
+
+  - #### Simple Select
+  - #### Select Columns
+  - #### Aliasing Columns
+  - #### Column Expressions
+  - #### Tangent: Naming Things
