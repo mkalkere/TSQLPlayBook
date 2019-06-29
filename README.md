@@ -25,3 +25,10 @@ _Developers TSQL Play Book_
   - #### Delete
   - #### Bulk Deletes
   
+## 3. Querying Data
+
+  - #### Simple Select
+  - #### Select Columns
+  - #### Aliasing Columns
+  - #### Column Expressions
+  - #### Tangent: Naming Things
