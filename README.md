@@ -32,3 +32,10 @@ _Developers TSQL Play Book_
   - #### Aliasing Columns
   - #### Column Expressions
   - #### Tangent: Naming Things
+
+## 4. Joining Tables
+
+  - #### Inner Joins
+  - #### Subqueries
+  - #### Left and Right Joins
+  - #### Full Joins
