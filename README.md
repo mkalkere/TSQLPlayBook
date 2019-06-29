@@ -56,3 +56,10 @@ _Developers TSQL Play Book_
   - #### Tangent: Checking Your Numbers
   - #### Constraining Aggregate Results
   
+## 7.Many to Many and Self-referncing Relationships
+
+  - #### Adding Data to Many to Many
+  - #### Querying a Many to Many
+  - #### Many to Many Table Constraints
+  - #### Querying a Self-referencing Table With a Subquery
+  - #### Querying a Self-referencing Table With a Join
