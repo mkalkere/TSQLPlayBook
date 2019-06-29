@@ -1,5 +1,5 @@
-# TSQLPlayBook
-Developers TSQL Play Book
+# TSQL Play Book
+_Developers TSQL Play Book
 
 
 ## 1. Working with Tables
