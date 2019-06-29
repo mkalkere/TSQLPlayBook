@@ -15,4 +15,13 @@ Developers TSQL Play Book
   - #### Column Defaults
   - #### Naming Conventions
   
-## 2.   
+## 2. Working with Data
+
+  - #### Inserting Data
+  - #### Bulk Inserts
+  - #### Updates
+  - #### Updates with Criteria
+  - #### Bulk Updates
+  - #### Delete
+  - #### Bulk Deletes
+  
