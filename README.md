@@ -63,3 +63,15 @@ _Developers TSQL Play Book_
   - #### Many to Many Table Constraints
   - #### Querying a Self-referencing Table With a Subquery
   - #### Querying a Self-referencing Table With a Join
+  
+## 8.Essential String and Date Functions
+
+  - #### Querying Strings With A Partial Match
+  - #### Partial String Results With Substring 
+  - #### Editing String Results With Replace
+  - #### Fixing Bad Data With Trim
+  - #### Fixing Bad Data With TRIM, LEN, And Data Length
+  - #### Slicing Data With Date Part
+  - #### Doing Date Math With Date Diff
+  
+  
